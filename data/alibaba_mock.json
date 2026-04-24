@@ -1,0 +1,21 @@
+[
+  {"category":"earrings","supplier":"Shenzhen Aurora Jewelry Co.","product_type":"hoop earrings","material":"alloy","style":"minimalist","cost":3.2,"moq":200},
+  {"category":"earrings","supplier":"Yiwu Pearl Craft Factory","product_type":"drop earrings","material":"pearl","style":"statement","cost":2.8,"moq":300},
+  {"category":"earrings","supplier":"Qingdao Boho Accessories Ltd.","product_type":"dangle earrings","material":"cotton","style":"boho","cost":1.9,"moq":500},
+
+  {"category":"phone cases","supplier":"Guangzhou SmartShell Tech","product_type":"magsafe case","material":"tpu","style":"minimalist","cost":4.7,"moq":500},
+  {"category":"phone cases","supplier":"Dongguan Armor Mobile","product_type":"rugged case","material":"polycarbonate","style":"sport","cost":5.1,"moq":400},
+  {"category":"phone cases","supplier":"Fuzhou Pattern Case Studio","product_type":"fashion phone case","material":"silicone","style":"fashion","cost":3.9,"moq":600},
+
+  {"category":"skincare tools","supplier":"Ningbo Beauty Tools Inc.","product_type":"facial roller","material":"jade","style":"wellness","cost":4.2,"moq":300},
+  {"category":"skincare tools","supplier":"Hangzhou Spa Device Co.","product_type":"ice globe massager","material":"glass","style":"spa","cost":5.4,"moq":250},
+  {"category":"skincare tools","supplier":"Shantou SkinTech Factory","product_type":"skin scrubber","material":"abs plastic","style":"tech","cost":8.8,"moq":200},
+
+  {"category":"fitness accessories","supplier":"Xiamen ActiveFit Gear","product_type":"resistance bands","material":"latex","style":"home gym","cost":3.6,"moq":350},
+  {"category":"fitness accessories","supplier":"Suzhou Cardio Sports","product_type":"jump rope","material":"steel cable","style":"cardio","cost":2.7,"moq":500},
+  {"category":"fitness accessories","supplier":"Wenzhou Strength Works","product_type":"wrist weights","material":"neoprene","style":"functional","cost":6.5,"moq":220},
+
+  {"category":"kitchen gadgets","supplier":"Foshan Home Kitchenware","product_type":"milk frother","material":"stainless steel","style":"modern","cost":3.4,"moq":500},
+  {"category":"kitchen gadgets","supplier":"Jinhua Prep Solutions","product_type":"vegetable chopper","material":"abs plastic","style":"utility","cost":6.2,"moq":300},
+  {"category":"kitchen gadgets","supplier":"Taizhou EcoCook Supplies","product_type":"air fryer liners","material":"silicone","style":"eco","cost":2.1,"moq":700}
+]
