@@ -1,0 +1,21 @@
+[
+  {"category":"earrings","name":"Minimalist Gold Hoop Earrings","price":24.99,"reviews":3240,"rating":4.6,"material":"alloy","style":"minimalist"},
+  {"category":"earrings","name":"Pearl Drop Statement Earrings","price":19.5,"reviews":1875,"rating":4.4,"material":"pearl","style":"statement"},
+  {"category":"earrings","name":"Boho Tassel Dangle Earrings","price":14.99,"reviews":980,"rating":4.2,"material":"cotton","style":"boho"},
+
+  {"category":"phone cases","name":"MagSafe Clear Shockproof Case","price":29.99,"reviews":5400,"rating":4.7,"material":"tpu","style":"minimalist"},
+  {"category":"phone cases","name":"Rugged Armor Drop-Proof Case","price":27.49,"reviews":4210,"rating":4.5,"material":"polycarbonate","style":"sport"},
+  {"category":"phone cases","name":"Floral Matte Slim Case","price":16.99,"reviews":1680,"rating":4.3,"material":"silicone","style":"fashion"},
+
+  {"category":"skincare tools","name":"Jade Facial Roller Set","price":18.99,"reviews":3015,"rating":4.5,"material":"jade","style":"wellness"},
+  {"category":"skincare tools","name":"Ice Globe Face Massager","price":23.99,"reviews":2240,"rating":4.4,"material":"glass","style":"spa"},
+  {"category":"skincare tools","name":"Ultrasonic Skin Scrubber","price":39.99,"reviews":1430,"rating":4.2,"material":"abs plastic","style":"tech"},
+
+  {"category":"fitness accessories","name":"Resistance Bands Set","price":21.99,"reviews":6120,"rating":4.8,"material":"latex","style":"home gym"},
+  {"category":"fitness accessories","name":"Adjustable Jump Rope Pro","price":15.99,"reviews":2890,"rating":4.4,"material":"steel cable","style":"cardio"},
+  {"category":"fitness accessories","name":"Sweatproof Wrist Weights","price":34.99,"reviews":1120,"rating":4.1,"material":"neoprene","style":"functional"},
+
+  {"category":"kitchen gadgets","name":"Electric Milk Frother Wand","price":17.99,"reviews":4870,"rating":4.6,"material":"stainless steel","style":"modern"},
+  {"category":"kitchen gadgets","name":"Multi-Function Vegetable Chopper","price":32.99,"reviews":3550,"rating":4.4,"material":"abs plastic","style":"utility"},
+  {"category":"kitchen gadgets","name":"Silicone Air Fryer Liners","price":13.99,"reviews":2100,"rating":4.3,"material":"silicone","style":"eco"}
+]
